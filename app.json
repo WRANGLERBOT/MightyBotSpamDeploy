@@ -1,5 +1,5 @@
 {
-    "name": "Mighty X BotSpam",
+    "name": "WRANGLER BotSpam",
     "description": "MOST POWERFUL & STABLE SPAMBOTS",
     "logo": "https://te.legra.ph/file/8ec14b0474eeb64987bc0.jpg",
     "keywords": [
@@ -9,9 +9,9 @@
         "MightyXSpam",
         "SpamBots"
     ],
-    "repository": "https://github.com/BeingMighty/MightyXBotSpam",
-    "website": "https://github.com/BeingMighty",
-    "success_url": "https://t.me/MightyXSupport",
+    "repository": "https://github.com/WRANGLERBOT/WranglerSpamBot",
+    "website": "https://github.com/WRANGLERBOT",
+    "success_url": "https://t.me/hindi_chatting_groupz",
     "env": {
              "API_ID": {
         "description": "Fill Api ID Take This Value From my.telegram.org",
