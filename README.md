@@ -13,7 +13,7 @@
 
 # Deploy To Heroku :
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BeingMighty/MightyBotSpamDeploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/WRANGLERBOT/WranglerSpamBot)
 
 <br>
 
@@ -21,7 +21,7 @@
  
   <summary> • 𝗖𝗿𝗲𝗱𝗶𝘁𝘀 • </summary>
   
-* [MightyX Creator](https://github.com/BeingMighty)
+* [WRANGLER Creator](https://github.com/WRANGLERBOT)
 
 * [Lonami](https://github.com/LonamiWebs/) For [Telethon.](https://github.com/LonamiWebs/Telethon)
 
